@@ -1,0 +1,22 @@
+{
+  "name": "Explorators",
+  "symbol": "EXP",
+  "description": "Explorators assets on Metaplex Core",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/image.png",
+  "category": "image",
+  "attributes": [
+    {
+      "trait_type": "Type",
+      "value": "Developer"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
