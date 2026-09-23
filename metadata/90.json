@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #90",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #90.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/90.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 90
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "gato-v2"
+    },
+    {
+      "trait_type": "Family",
+      "value": "island-cat"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 2
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 89
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/90.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

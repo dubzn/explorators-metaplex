@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #87",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #87.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/87.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 87
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "dg-knight-4-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "crimson-knight"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 86
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/87.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

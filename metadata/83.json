@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #83",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #83.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/83.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 83
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "dg-knight-2-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "amber-knight"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 82
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/83.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

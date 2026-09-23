@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #65",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #65.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/65.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 65
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "summer-1-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "sun-seeker"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 64
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/65.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

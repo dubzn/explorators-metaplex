@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #50",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #50.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/50.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 50
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "autumn-1-v2"
+    },
+    {
+      "trait_type": "Family",
+      "value": "autumn-wanderer"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 2
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 49
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/50.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

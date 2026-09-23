@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #76",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #76.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/76.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 76
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "winter-2-v2"
+    },
+    {
+      "trait_type": "Family",
+      "value": "frost-walker"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 2
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 75
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/76.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

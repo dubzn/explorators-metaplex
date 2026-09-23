@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #101",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #101.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/101.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 101
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "special-2-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "meadow-spirit"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 100
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/101.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

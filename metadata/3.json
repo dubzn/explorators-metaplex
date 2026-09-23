@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #3",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #3.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/3.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 3
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "basic-bunny-character-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "rose-bunny"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 2
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/3.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

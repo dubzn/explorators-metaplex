@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #103",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #103.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/103.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 103
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "special-3-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "azure-spirit"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 102
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/103.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}

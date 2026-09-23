@@ -1,0 +1,784 @@
+{
+  "schemaVersion": 1,
+  "collection": "Explorators",
+  "symbol": "EXP",
+  "entries": [
+    {
+      "number": 1,
+      "skinId": "basic-character-v1",
+      "name": "Explorator #1",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/1.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/1.png"
+    },
+    {
+      "number": 2,
+      "skinId": "basic-character-v2",
+      "name": "Explorator #2",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/2.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/2.png"
+    },
+    {
+      "number": 3,
+      "skinId": "basic-bunny-character-v1",
+      "name": "Explorator #3",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/3.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/3.png"
+    },
+    {
+      "number": 4,
+      "skinId": "basic-bunny-character-v2",
+      "name": "Explorator #4",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/4.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/4.png"
+    },
+    {
+      "number": 5,
+      "skinId": "main-character-v1",
+      "name": "Explorator #5",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/5.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/5.png"
+    },
+    {
+      "number": 6,
+      "skinId": "main-character-v2",
+      "name": "Explorator #6",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/6.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/6.png"
+    },
+    {
+      "number": 7,
+      "skinId": "character-1-v1",
+      "name": "Explorator #7",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/7.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/7.png"
+    },
+    {
+      "number": 8,
+      "skinId": "character-1-v2",
+      "name": "Explorator #8",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/8.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/8.png"
+    },
+    {
+      "number": 9,
+      "skinId": "character-2-v1",
+      "name": "Explorator #9",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/9.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/9.png"
+    },
+    {
+      "number": 10,
+      "skinId": "character-2-v2",
+      "name": "Explorator #10",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/10.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/10.png"
+    },
+    {
+      "number": 11,
+      "skinId": "character-3-v1",
+      "name": "Explorator #11",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/11.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/11.png"
+    },
+    {
+      "number": 12,
+      "skinId": "character-3-v2",
+      "name": "Explorator #12",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/12.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/12.png"
+    },
+    {
+      "number": 13,
+      "skinId": "character-4-v1",
+      "name": "Explorator #13",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/13.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/13.png"
+    },
+    {
+      "number": 14,
+      "skinId": "character-4-v2",
+      "name": "Explorator #14",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/14.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/14.png"
+    },
+    {
+      "number": 15,
+      "skinId": "character-5-v1",
+      "name": "Explorator #15",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/15.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/15.png"
+    },
+    {
+      "number": 16,
+      "skinId": "character-5-v2",
+      "name": "Explorator #16",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/16.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/16.png"
+    },
+    {
+      "number": 17,
+      "skinId": "character-6-v1",
+      "name": "Explorator #17",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/17.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/17.png"
+    },
+    {
+      "number": 18,
+      "skinId": "character-6-v2",
+      "name": "Explorator #18",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/18.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/18.png"
+    },
+    {
+      "number": 19,
+      "skinId": "character-7-v1",
+      "name": "Explorator #19",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/19.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/19.png"
+    },
+    {
+      "number": 20,
+      "skinId": "character-7-v2",
+      "name": "Explorator #20",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/20.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/20.png"
+    },
+    {
+      "number": 21,
+      "skinId": "character-8-v1",
+      "name": "Explorator #21",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/21.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/21.png"
+    },
+    {
+      "number": 22,
+      "skinId": "character-8-v2",
+      "name": "Explorator #22",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/22.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/22.png"
+    },
+    {
+      "number": 23,
+      "skinId": "character-9-v1",
+      "name": "Explorator #23",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/23.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/23.png"
+    },
+    {
+      "number": 24,
+      "skinId": "character-9-v2",
+      "name": "Explorator #24",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/24.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/24.png"
+    },
+    {
+      "number": 25,
+      "skinId": "character-10-v1",
+      "name": "Explorator #25",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/25.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/25.png"
+    },
+    {
+      "number": 26,
+      "skinId": "character-10-v2",
+      "name": "Explorator #26",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/26.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/26.png"
+    },
+    {
+      "number": 27,
+      "skinId": "character-11-v1",
+      "name": "Explorator #27",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/27.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/27.png"
+    },
+    {
+      "number": 28,
+      "skinId": "character-11-v2",
+      "name": "Explorator #28",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/28.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/28.png"
+    },
+    {
+      "number": 29,
+      "skinId": "character-12-v1",
+      "name": "Explorator #29",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/29.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/29.png"
+    },
+    {
+      "number": 30,
+      "skinId": "character-12-v2",
+      "name": "Explorator #30",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/30.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/30.png"
+    },
+    {
+      "number": 31,
+      "skinId": "character-13-v1",
+      "name": "Explorator #31",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/31.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/31.png"
+    },
+    {
+      "number": 32,
+      "skinId": "character-13-v2",
+      "name": "Explorator #32",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/32.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/32.png"
+    },
+    {
+      "number": 33,
+      "skinId": "character-14-v1",
+      "name": "Explorator #33",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/33.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/33.png"
+    },
+    {
+      "number": 34,
+      "skinId": "character-14-v2",
+      "name": "Explorator #34",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/34.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/34.png"
+    },
+    {
+      "number": 35,
+      "skinId": "character-15-v1",
+      "name": "Explorator #35",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/35.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/35.png"
+    },
+    {
+      "number": 36,
+      "skinId": "character-15-v2",
+      "name": "Explorator #36",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/36.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/36.png"
+    },
+    {
+      "number": 37,
+      "skinId": "character-16-v1",
+      "name": "Explorator #37",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/37.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/37.png"
+    },
+    {
+      "number": 38,
+      "skinId": "character-16-v2",
+      "name": "Explorator #38",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/38.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/38.png"
+    },
+    {
+      "number": 39,
+      "skinId": "character-17-v1",
+      "name": "Explorator #39",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/39.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/39.png"
+    },
+    {
+      "number": 40,
+      "skinId": "character-17-v2",
+      "name": "Explorator #40",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/40.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/40.png"
+    },
+    {
+      "number": 41,
+      "skinId": "character-18-v1",
+      "name": "Explorator #41",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/41.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/41.png"
+    },
+    {
+      "number": 42,
+      "skinId": "character-18-v2",
+      "name": "Explorator #42",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/42.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/42.png"
+    },
+    {
+      "number": 43,
+      "skinId": "character-19-v1",
+      "name": "Explorator #43",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/43.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/43.png"
+    },
+    {
+      "number": 44,
+      "skinId": "character-19-v2",
+      "name": "Explorator #44",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/44.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/44.png"
+    },
+    {
+      "number": 45,
+      "skinId": "character-20-v1",
+      "name": "Explorator #45",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/45.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/45.png"
+    },
+    {
+      "number": 46,
+      "skinId": "character-20-v2",
+      "name": "Explorator #46",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/46.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/46.png"
+    },
+    {
+      "number": 47,
+      "skinId": "character-21-v1",
+      "name": "Explorator #47",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/47.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/47.png"
+    },
+    {
+      "number": 48,
+      "skinId": "character-21-v2",
+      "name": "Explorator #48",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/48.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/48.png"
+    },
+    {
+      "number": 49,
+      "skinId": "autumn-1-v1",
+      "name": "Explorator #49",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/49.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/49.png"
+    },
+    {
+      "number": 50,
+      "skinId": "autumn-1-v2",
+      "name": "Explorator #50",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/50.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/50.png"
+    },
+    {
+      "number": 51,
+      "skinId": "autumn-2-v1",
+      "name": "Explorator #51",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/51.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/51.png"
+    },
+    {
+      "number": 52,
+      "skinId": "autumn-2-v2",
+      "name": "Explorator #52",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/52.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/52.png"
+    },
+    {
+      "number": 53,
+      "skinId": "autumn-3-v1",
+      "name": "Explorator #53",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/53.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/53.png"
+    },
+    {
+      "number": 54,
+      "skinId": "autumn-3-v2",
+      "name": "Explorator #54",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/54.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/54.png"
+    },
+    {
+      "number": 55,
+      "skinId": "autumn-4-v1",
+      "name": "Explorator #55",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/55.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/55.png"
+    },
+    {
+      "number": 56,
+      "skinId": "autumn-4-v2",
+      "name": "Explorator #56",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/56.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/56.png"
+    },
+    {
+      "number": 57,
+      "skinId": "spring-1-v1",
+      "name": "Explorator #57",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/57.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/57.png"
+    },
+    {
+      "number": 58,
+      "skinId": "spring-1-v2",
+      "name": "Explorator #58",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/58.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/58.png"
+    },
+    {
+      "number": 59,
+      "skinId": "spring-2-v1",
+      "name": "Explorator #59",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/59.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/59.png"
+    },
+    {
+      "number": 60,
+      "skinId": "spring-2-v2",
+      "name": "Explorator #60",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/60.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/60.png"
+    },
+    {
+      "number": 61,
+      "skinId": "spring-3-v1",
+      "name": "Explorator #61",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/61.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/61.png"
+    },
+    {
+      "number": 62,
+      "skinId": "spring-3-v2",
+      "name": "Explorator #62",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/62.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/62.png"
+    },
+    {
+      "number": 63,
+      "skinId": "spring-4-v1",
+      "name": "Explorator #63",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/63.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/63.png"
+    },
+    {
+      "number": 64,
+      "skinId": "spring-4-v2",
+      "name": "Explorator #64",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/64.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/64.png"
+    },
+    {
+      "number": 65,
+      "skinId": "summer-1-v1",
+      "name": "Explorator #65",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/65.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/65.png"
+    },
+    {
+      "number": 66,
+      "skinId": "summer-1-v2",
+      "name": "Explorator #66",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/66.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/66.png"
+    },
+    {
+      "number": 67,
+      "skinId": "summer-2-v1",
+      "name": "Explorator #67",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/67.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/67.png"
+    },
+    {
+      "number": 68,
+      "skinId": "summer-2-v2",
+      "name": "Explorator #68",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/68.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/68.png"
+    },
+    {
+      "number": 69,
+      "skinId": "summer-3-v1",
+      "name": "Explorator #69",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/69.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/69.png"
+    },
+    {
+      "number": 70,
+      "skinId": "summer-3-v2",
+      "name": "Explorator #70",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/70.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/70.png"
+    },
+    {
+      "number": 71,
+      "skinId": "summer-4-v1",
+      "name": "Explorator #71",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/71.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/71.png"
+    },
+    {
+      "number": 72,
+      "skinId": "summer-4-v2",
+      "name": "Explorator #72",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/72.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/72.png"
+    },
+    {
+      "number": 73,
+      "skinId": "winter-1-v1",
+      "name": "Explorator #73",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/73.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/73.png"
+    },
+    {
+      "number": 74,
+      "skinId": "winter-1-v2",
+      "name": "Explorator #74",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/74.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/74.png"
+    },
+    {
+      "number": 75,
+      "skinId": "winter-2-v1",
+      "name": "Explorator #75",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/75.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/75.png"
+    },
+    {
+      "number": 76,
+      "skinId": "winter-2-v2",
+      "name": "Explorator #76",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/76.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/76.png"
+    },
+    {
+      "number": 77,
+      "skinId": "winter-3-v1",
+      "name": "Explorator #77",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/77.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/77.png"
+    },
+    {
+      "number": 78,
+      "skinId": "winter-3-v2",
+      "name": "Explorator #78",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/78.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/78.png"
+    },
+    {
+      "number": 79,
+      "skinId": "winter-4-v1",
+      "name": "Explorator #79",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/79.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/79.png"
+    },
+    {
+      "number": 80,
+      "skinId": "winter-4-v2",
+      "name": "Explorator #80",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/80.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/80.png"
+    },
+    {
+      "number": 81,
+      "skinId": "dg-knight-1-v1",
+      "name": "Explorator #81",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/81.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/81.png"
+    },
+    {
+      "number": 82,
+      "skinId": "dg-knight-1-v2",
+      "name": "Explorator #82",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/82.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/82.png"
+    },
+    {
+      "number": 83,
+      "skinId": "dg-knight-2-v1",
+      "name": "Explorator #83",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/83.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/83.png"
+    },
+    {
+      "number": 84,
+      "skinId": "dg-knight-2-v2",
+      "name": "Explorator #84",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/84.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/84.png"
+    },
+    {
+      "number": 85,
+      "skinId": "dg-knight-3-v1",
+      "name": "Explorator #85",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/85.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/85.png"
+    },
+    {
+      "number": 86,
+      "skinId": "dg-knight-3-v2",
+      "name": "Explorator #86",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/86.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/86.png"
+    },
+    {
+      "number": 87,
+      "skinId": "dg-knight-4-v1",
+      "name": "Explorator #87",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/87.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/87.png"
+    },
+    {
+      "number": 88,
+      "skinId": "dg-knight-4-v2",
+      "name": "Explorator #88",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/88.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/88.png"
+    },
+    {
+      "number": 89,
+      "skinId": "gato-v1",
+      "name": "Explorator #89",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/89.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/89.png"
+    },
+    {
+      "number": 90,
+      "skinId": "gato-v2",
+      "name": "Explorator #90",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/90.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/90.png"
+    },
+    {
+      "number": 91,
+      "skinId": "gato-2-v1",
+      "name": "Explorator #91",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/91.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/91.png"
+    },
+    {
+      "number": 92,
+      "skinId": "gato-2-v2",
+      "name": "Explorator #92",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/92.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/92.png"
+    },
+    {
+      "number": 93,
+      "skinId": "gato-3-v1",
+      "name": "Explorator #93",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/93.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/93.png"
+    },
+    {
+      "number": 94,
+      "skinId": "gato-3-v2",
+      "name": "Explorator #94",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/94.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/94.png"
+    },
+    {
+      "number": 95,
+      "skinId": "gato-4-v1",
+      "name": "Explorator #95",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/95.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/95.png"
+    },
+    {
+      "number": 96,
+      "skinId": "gato-4-v2",
+      "name": "Explorator #96",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/96.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/96.png"
+    },
+    {
+      "number": 97,
+      "skinId": "gato-5-v1",
+      "name": "Explorator #97",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/97.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/97.png"
+    },
+    {
+      "number": 98,
+      "skinId": "gato-5-v2",
+      "name": "Explorator #98",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/98.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/98.png"
+    },
+    {
+      "number": 99,
+      "skinId": "special-1-v1",
+      "name": "Explorator #99",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/99.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/99.png"
+    },
+    {
+      "number": 100,
+      "skinId": "special-1-v2",
+      "name": "Explorator #100",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/100.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/100.png"
+    },
+    {
+      "number": 101,
+      "skinId": "special-2-v1",
+      "name": "Explorator #101",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/101.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/101.png"
+    },
+    {
+      "number": 102,
+      "skinId": "special-2-v2",
+      "name": "Explorator #102",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/102.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/102.png"
+    },
+    {
+      "number": 103,
+      "skinId": "special-3-v1",
+      "name": "Explorator #103",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/103.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/103.png"
+    },
+    {
+      "number": 104,
+      "skinId": "special-3-v2",
+      "name": "Explorator #104",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/104.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/104.png"
+    },
+    {
+      "number": 105,
+      "skinId": "special-4-v1",
+      "name": "Explorator #105",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/105.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/105.png"
+    },
+    {
+      "number": 106,
+      "skinId": "special-4-v2",
+      "name": "Explorator #106",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/106.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/106.png"
+    },
+    {
+      "number": 107,
+      "skinId": "special-5-v1",
+      "name": "Explorator #107",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/107.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/107.png"
+    },
+    {
+      "number": 108,
+      "skinId": "special-5-v2",
+      "name": "Explorator #108",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/108.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/108.png"
+    },
+    {
+      "number": 109,
+      "skinId": "dub-v1",
+      "name": "Explorator #109",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/109.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/109.png"
+    },
+    {
+      "number": 110,
+      "skinId": "dub-v2",
+      "name": "Explorator #110",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/110.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/110.png"
+    },
+    {
+      "number": 111,
+      "skinId": "f0x1777-v1",
+      "name": "Explorator #111",
+      "metadata": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/metadata/111.json",
+      "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/111.png"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "$schema": "https://schema.metaplex.com/nft1.0.json",
+  "name": "Explorator #107",
+  "symbol": "EXP",
+  "description": "Explorators Devnet avatar #107.",
+  "image": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/107.png",
+  "attributes": [
+    {
+      "trait_type": "Avatar Number",
+      "value": 107
+    },
+    {
+      "trait_type": "Skin ID",
+      "value": "special-5-v1"
+    },
+    {
+      "trait_type": "Family",
+      "value": "rose-spirit"
+    },
+    {
+      "trait_type": "Variant",
+      "value": 1
+    },
+    {
+      "trait_type": "Appearance Version",
+      "value": 106
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/dubzn/explorators-metaplex/master/images/107.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
